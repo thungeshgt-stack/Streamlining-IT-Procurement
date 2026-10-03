@@ -179,7 +179,10 @@ Full backlog, tracker and burndown: [`docs/Project_Planning_Laptop_Procurement.p
 
 | Name | Role |
 |---|---|
-| _Add name_ | _Add role_ |
+| THUNGESH .G | TEAM LEAD |
+| ASWIN . M | TEAM MEMBER |
+|HARIHARAN . T | TEAM MEMBER |
+| PURUSHOTHAMAN .L | TEAM MEMBER |
 
 ---
 
